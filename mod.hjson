@@ -1,10 +1,9 @@
-name: allure
-displayName: Allure
-author: Lixie
+name: allure.id
+displayName: Allure: education
+author: mimitvripple
 description:
   '''
-  WARNING: Not supported on low-end devices.
-
+  WARNING: TNT in Indonesia
   World logic contributed by Sh1penfire (@sh1penfire). Much thanks!
   
   An attempt at an immersive content mod.
@@ -16,4 +15,4 @@ description:
   THIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS
   '''
 version: spaghetti
-minGameVersion: 147
+minGameVersion: 146
